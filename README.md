@@ -16,7 +16,7 @@ Eccentric IT Security Administrator
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TreeMac1&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
